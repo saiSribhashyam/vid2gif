@@ -109,9 +109,6 @@ function App() {
           )}
         </div>
       </div>
-      <section>
-        <button>Source Code</button>
-      </section>
       <footer className="footer">
         <p>&copy; 2024 <a href='https://github.com/saiSribhashyam' target='blank'>Sai Sribhashyam</a> - All rights reserved.</p>
         <p>Powered by FFmpeg and React</p>
