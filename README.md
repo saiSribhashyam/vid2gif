@@ -1,3 +1,4 @@
+![](https://github.com/saiSribhashyam/vid2gif/blob/master/public/Vid2Gif-8-13-2024.png)
 
 # Vid2GIF : Video to GIF converter
 
