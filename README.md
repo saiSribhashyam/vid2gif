@@ -4,6 +4,9 @@
 
 MC Video to GIF Converter is a simple and intuitive web application that allows you to convert videos into GIFs directly in your browser. Built using React and powered by FFmpeg, this tool offers drag-and-drop functionality, video preview, GIF conversion, and download capabilities.
 
+## Deployment
+Live site : [https://vid2gif.onrender.com/](https://vid2gif.onrender.com/)
+
 ## Features
 **Drag-and-Drop Interface:** Easily upload your video files by dragging and dropping them into the application.
 
